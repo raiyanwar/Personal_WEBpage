@@ -1,0 +1,53 @@
+
+body {
+  Background-Color: #fbf0f0;
+}
+h1{
+  color: #404b69;
+}
+h2{
+  font-size: 28px;
+color: #27496d;
+}
+p{
+  text-align: justify;
+  letter-spacing: 3px;
+  font-style: italic;
+  font-family: cursive;
+  font-size: 15pt;
+  color: #086972;
+}
+.main{
+  text-align: justify;
+  letter-spacing: 3px;
+  font-style: italic;
+  font-family: cursive;
+  font-size: 15pt;
+  color: #086972;
+}
+li{
+  font-size: 15pt;
+  letter-spacing: 2px;
+}
+.A{
+
+  font-size: 16pt;
+  font-family:"Lucida Console", Courier, monospace;
+}
+th{
+  font-size: 16pt;
+  font-family:"Lucida Console", Courier, monospace;
+}
+tr{
+  font-size: 15pt;
+  letter-spacing: 2px;
+}
+hr {
+  border-color: #b9ac92;
+  border-width: 6px;
+
+  border-style: none;
+  border-top-style: dotted;
+
+  width: 8%;
+}
